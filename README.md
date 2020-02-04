@@ -1,10 +1,13 @@
 # Arq
 Exercicios 
-> Exercicio 1 passado pelo Rosa 
-[x] Ex 1
 
-> Exercicio 2 passado pelo Rosa 
-[x] Ex 2
+## Exercicio 1 passado pelo Rosa 
 
-> Exercicio 2 passado pelo Rosa 
-[] Ex 2
+O exercico 1 Consiste em fazer uma estrutura de repeti;áo usando o for 
+que ira contar de 0 a 50 com uma pausa de 1 segundo.
+
+### [ Exe 1] (https://github.com/danielzambon/Arq/blob/master/EX_1.sh)
+
+## Exercicio 2 passado pelo Rosa 
+
+### [ Exe 2] (https://github.com/danielzambon/Arq/blob/master/EX_2.sh)
