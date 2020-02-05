@@ -10,4 +10,4 @@ que ira contar de 0 a 50 com uma pausa de 1 segundo.
 
 ## Exercicio 2 passado pelo Rosa 
 
-### [ Exe 2] (https://github.com/danielzambon/Arq/blob/master/EX_2.sh)
+- **Exe** : https://github.com/danielzambon/Arq/blob/master/EX_2.sh
