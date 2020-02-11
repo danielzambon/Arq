@@ -1,5 +1,5 @@
-# Arq
-Exercicios 
+# Indice dos exercicios 
+
 
 ## Exercicio 1 passado pelo Rosa 
 
